@@ -63,7 +63,7 @@ a {
     align-items: center;
  }
 
- .main button {
+ button {
    background-color: rgb(6, 6, 112); 
    color: white;
    border: solid white 3px;
@@ -246,7 +246,10 @@ a {
   width: 80%;
   height: 50%;
   border: solid black 5px;
+  margin-bottom: 5rem;
  }
+
+
 
  /* CONTACT */
 
