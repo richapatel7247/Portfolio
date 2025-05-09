@@ -93,34 +93,6 @@ a {
     border-radius: 50%;
  }
 
-
- /* WORK EXPERIENCE */
-
- .work {
-    border-top: 0.01rem solid white;
-    padding-top: 3rem;
-    padding-left: 7.5rem;
- }
-
- .work span{
-    font-size: smaller;
-    color: gray;
- }
-
- .work .items {
-    display: flex;
-    justify-content: space-between;
-    margin-right: 100px;
-    margin-right: 100px;
- }
- .w-item {
-    border-left: 0.1rem solid white;
-    height: 100px;
-    margin-left: 100px;
-   
- }
-
-
  .skills-name {
     color: white;
     margin-left: 100px;
